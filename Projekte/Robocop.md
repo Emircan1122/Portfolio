@@ -22,7 +22,7 @@ In dem Workshop von ca 7 Stunden entwickelten wir unser Konzept. Dafür spaltete
 
 
 <video 
-  src="{{'/assets/videos/konzept.mp4' | relative_url }}" 
+  src="{{'/assets/videos/konzept.mp4' | relative_url }}"  
   autoplay 
   loop 
   muted 
@@ -55,7 +55,7 @@ In dem SAFe Framework gibt es zudem das ART Team, welches haupstächlich für de
 Vollständige Dokumentation, System Demos nach jedem PI (Programm Increment - Ähnlich wie ein Sprint), ART Syncs (Syncronisation der Teams), Planning- und Execution Tage standen auf dem Plan.
 
 <video 
-  src="{{'/assets/videos/youtrackoverview.mp4' | relative_url }}" 
+  src="{{'/assets/videos/youtrackoverview.mp4' | relative_url }}"  
   autoplay 
   loop 
   muted 
